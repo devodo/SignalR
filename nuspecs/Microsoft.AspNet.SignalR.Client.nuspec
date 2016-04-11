@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <package>
   <metadata>
-    <id>Microsoft.AspNet.SignalR.Client</id>
+    <id>Kastr.Microsoft.AspNet.SignalR.Client</id>
     <title>Microsoft ASP.NET SignalR .NET Client</title>
     <version>__SIGNALR_PACKAGE_VERSION__</version>
     <authors>Microsoft</authors>
@@ -40,7 +40,5 @@
     <file src="portable-net45+sl50+win+wpa81+wp80\Microsoft.AspNet.SignalR.Client.xml" target="lib\portable-net45+sl50+win+wpa81+wp80" />
     <file src="portable-win81+wpa81\Microsoft.AspNet.SignalR.Client.dll" target="lib\portable-win81+wpa81" />
     <file src="portable-win81+wpa81\Microsoft.AspNet.SignalR.Client.xml" target="lib\portable-win81+wpa81" />
-    <file src="netcore50\Microsoft.AspNet.SignalR.Client.dll" target="lib\netcore50" />
-    <file src="netcore50\Microsoft.AspNet.SignalR.Client.Xml" target="lib\netcore50" />
   </files>
 </package>

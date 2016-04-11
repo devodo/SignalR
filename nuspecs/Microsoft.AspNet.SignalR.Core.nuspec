@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <package>
   <metadata>
-    <id>Microsoft.AspNet.SignalR.Core</id>
+    <id>Kastr.Microsoft.AspNet.SignalR.Core</id>
     <title>Microsoft ASP.NET SignalR Core Components</title>
     <version>__SIGNALR_PACKAGE_VERSION__</version>
     <authors>Microsoft</authors>

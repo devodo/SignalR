@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <package>
   <metadata>
-    <id>Microsoft.AspNet.SignalR</id>
+    <id>Kastr.Microsoft.AspNet.SignalR</id>
     <title>Microsoft ASP.NET SignalR</title>
     <version>__SIGNALR_PACKAGE_VERSION__</version>
     <authors>Microsoft</authors>
@@ -18,8 +18,8 @@
     <tags>Microsoft AspNet SignalR AspNetSignalR websockets real-time realtime comet HTTP streaming</tags>
     <releaseNotes>https://github.com/SignalR/SignalR/releases</releaseNotes>
     <dependencies>
-      <dependency id="Microsoft.AspNet.SignalR.JS" version="__SIGNALR_PACKAGE_VERSION__" />
-      <dependency id="Microsoft.AspNet.SignalR.SystemWeb" version="__SIGNALR_PACKAGE_VERSION__" />
+      <dependency id="Kastr.Microsoft.AspNet.SignalR.JS" version="__SIGNALR_PACKAGE_VERSION__" />
+      <dependency id="Kastr.Microsoft.AspNet.SignalR.SystemWeb" version="__SIGNALR_PACKAGE_VERSION__" />
     </dependencies>
     <frameworkAssemblies>
       <frameworkAssembly assemblyName="System" targetFramework="net40" />
